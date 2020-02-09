@@ -1,0 +1,1 @@
+nasm -f bin boot_sect_hello.asm -o boot_sect_hello.bin
